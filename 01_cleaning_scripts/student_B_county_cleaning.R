@@ -99,3 +99,6 @@ glimpse(ca_prop_clean)
 save(ca_prop_clean, file = "02_clean_data/ca_prop_clean.RData")
 
 message("Done! Saved ca_prop_clean.RData with ", nrow(ca_prop_clean), " rows.")
+
+
+
